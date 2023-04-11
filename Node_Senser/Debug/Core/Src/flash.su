@@ -1,0 +1,9 @@
+flash.c:11:17:getPage	24	static
+flash.c:27:6:float2Bytes	24	static
+flash.c:42:7:Bytes2float	32	static
+flash.c:57:10:flashWriteData	32	static
+flash.c:108:6:flashReadData	24	static
+flash.c:119:6:Convert_To_Str	32	static
+flash.c:130:6:flashWriteNumber	16	static
+flash.c:139:7:flashReadNumber	32	static
+flash.c:148:10:deletePage	40	static

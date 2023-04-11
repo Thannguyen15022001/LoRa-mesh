@@ -1,0 +1,4 @@
+rtc.c:17:9:binaryToBCD	40	static
+rtc.c:31:6:setTime	32	static
+rtc.c:61:6:getTime	48	static
+rtc.c:76:6:setAlarm	64	static
